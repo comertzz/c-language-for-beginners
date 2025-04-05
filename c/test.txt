@@ -1,0 +1,4 @@
+isim:muhammet
+soyisim:comert
+yas:19
+boy:1.72

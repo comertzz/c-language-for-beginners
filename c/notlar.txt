@@ -1,0 +1,15 @@
+storage class;
+auto
+register
+static
+extern
+	auto ve register otomatik süreçli 
+	otomatik süreç hafıza koruması için kullanılır
+	register kaydedip hızlı bir şekilde kullanılmasını saglar
+ 		
+
+
+	extern ve static statik süreçli
+	static fonk bittikten sonra da değerlerini korurlar
+	bir sonraki çağırılışında önceki değerini kullanır
+	

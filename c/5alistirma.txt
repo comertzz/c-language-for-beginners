@@ -1,0 +1,29 @@
+1-c de bir program modülüne fonksiyon denir
+2-fonksiyon fonksiyon çağırma ile cagrilir
+3-sadece bildirildigi fonks icerisinde kullanılan degiskene yerel degisken denir
+4-daha önceden cagrilmis bir fonksiyonun içeisindeki return degeri fonksiyonun çağrıldığı yere bir deger gönderir
+5-void anahtar kelimesi bir fonk baslığında kullanildiginda bir deger gondermeyecegi ya da hic bir parametre icermedigi anlamın agelir
+6-bir tanıtıcının faaliyet alanı o tanıtıcıın program içerisinde kullanılabileceği bölümü gösterir
+7-çağrılmış bir fonksiyonda kontrolü çağırıcıya göndermenin üc yolu , return,return deyim,sol küme parantezi
+8-fonk prototiği derleyecinin argüman sayısını sırasını ve türünü kontrol etmesini sağlar
+9-rand rastgele sayı üretir
+10-srand rastgele programı rassallaştırır
+11-depolama sınıfı belirteçleri register extern static auto 
+12-bir blok içerisinde ya da fonk parametre listesinde bildirilen değişkenler aksi belirtilmediği takdirde otomatik depolama sınıfında kabul edilir
+13-register değişkeni pcde saklamasını söyler
+14-herhamgi bir bloğun veya fonk dışında bildirilen değişkene dış denir
+15-bir fonkda bildiriler yerel bir değişkenin değerini fonk çağrıldığı yerler arasında da koruması için static depolama sınıfı
+16-muhtemel dört faaliyet alanı fonk faaliyet alanı,dosya faaliyet alanı,blok faaliyet alanı,fonk prototipdir
+17-kendi kendini doğrudan ya da dolaylı olarak çağıran fonk yineleme fonk denir
+
+
+fabs=mutlak deger
+sqrt=kök alma
+pow= üs alma
+exp= e üssel fonks
+log= x in e tabanına göre
+ceil= x i kendinden büyük ilk tamsayıya yuvarlar
+floor= x i kendinden küçük ilk tamsayıya yuvarlar
+fmod(x,y) x in y ye bölümünden kalan
+
+

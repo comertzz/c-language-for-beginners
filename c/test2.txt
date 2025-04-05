@@ -1,0 +1,12 @@
+isim:muhammet
+soyisim:comert
+vize:60
+final:80
+isim:melih
+soyisim:yildiz
+vize:80
+final:90
+isim:huso
+soyisim:das
+vize:80
+final:90
